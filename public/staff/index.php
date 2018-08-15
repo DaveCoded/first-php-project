@@ -18,7 +18,7 @@
     </nav>
 
     <footer>
-      &copy; 2018 Globe Bank
+      &copy; <?php echo date('Y'); ?> Globe Bank
     </footer>
 
   </body>
