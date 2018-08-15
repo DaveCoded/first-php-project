@@ -2,7 +2,7 @@
 
 <?php include('../../private/shared/staff_header.php'); ?>
 
-  <div id="content">
-  </div>
+<div id="content">
+</div>
 
 <?php include('../../private/shared/staff_footer.php'); ?>
